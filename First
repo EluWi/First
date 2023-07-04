@@ -1,0 +1,8 @@
+#include <stdio.h>
+
+int main(){
+    int ELU;
+    scanf("%d", &ELU);
+    printf("%d", ELU);
+    return 0;
+}
